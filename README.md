@@ -1,28 +1,46 @@
-<h1 align="center">🚀 LeetCode 50 SQL Solutions 💻</h1>
+<h1 align="center">
+  🌐💾✨ LeetCode SQL 50 Challenge ✨💾🌐  
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-LeetCode-blue?style=flat-square" alt="SQL Badge" />
-  <img src="https://img.shields.io/badge/Problems-Solved-50%2F50-brightgreen?style=flat-square" alt="Progress Badge" />
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%BB%20and%20%E2%9C%A8-ff69b4?style=flat-square" alt="Made with Love" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+Mastering+SQL+1+Query+at+a+Time!;👨‍💻+50+Top+LeetCode+Problems+Solved!;💡+Clean+Code+%7C+Sharp+Logic+%7C+Big+Brain+Energy!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-LeetCode-blue?style=for-the-badge&logo=postgresql" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-50%2F50-success?style=for-the-badge&logo=leetcode" alt="Progress Badge" />
+  <img src="https://img.shields.io/badge/Built%20With-%F0%9F%92%BB%20%26%20%E2%9C%A8-purple?style=for-the-badge" alt="Built With Badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mission-SQL%20Mastery-ffcc00?style=flat-square" alt="Mission Badge" />
+  <img src="https://img.shields.io/badge/Level-Up-Now!-red?style=flat-square&logo=rocket" alt="Level Up Badge" />
 </p>
 
 ---
 
-## 🌟 About This Repo
+## 🌟 Welcome to the SQL Vault 🧠🔐
 
-Welcome to the **LeetCode SQL 50 Solutions** vault! 🧠💾  
-Here you'll find **clean**, **well-explained**, and **efficient** solutions to the top 50 SQL problems from LeetCode, organized and ready to help you **level up** your database skills.
+📚 This repo is your ultimate guide to cracking the **Top 50 LeetCode SQL Problems**. Every solution is crafted with:
+- 💡 *Clear logic*
+- 🧼 *Clean code*
+- 🔍 *Deep insights*
 
-Whether you're prepping for **tech interviews** 👨‍💻 or just want to flex those **data-wrangling muscles**, this repo's got your back!
+🧪 Whether you're:
+- Prepping for **FAANG-level interviews**,
+- Brushing up on **data wrangling** skills,
+- Or just love solving problems that make your brain go *brrrr* 🧊...
+
+You've landed in the right place.
 
 ---
 
-## 📁 Structure
+## 🗂️ File Structure: Sleek & Organized
 
-Each problem has:
-- ✅ **Problem Title**
-- 📄 **LeetCode Link**
-- 🧠 **Solution Explanation**
-- 💻 **Clean SQL Code**
-
-Directory:  
+```bash
+📁 sql-50/
+├── 📝 001. Recyclable and Low Fat Products.sql
+├── 📝 002. Second Highest Salary.sql
+├── 📝 003. Nth Highest Salary.sql
+├── ...
+└── 📝 050. The Employee That Worked on the Most Projects.sql
