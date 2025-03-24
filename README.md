@@ -9,7 +9,6 @@
 <p align="center">
   <img src="the_big_city.gif" alt="Pixel City Data Flow" />
 </p>
----
 
 ## 🌟 Welcome to the SQL Vault 🧠🔐
 
