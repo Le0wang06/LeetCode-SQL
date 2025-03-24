@@ -7,14 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-LeetCode-blue?style=for-the-badge&logo=postgresql" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/SQL-LeetCode-blue?style=for-the-badge&logo=postgresql" alt="[SQL Badge](https://dev.mysql.com/doc/)" />
   <img src="https://img.shields.io/badge/Problems%20Solved-50%2F50-success?style=for-the-badge&logo=leetcode" alt="Progress Badge" />
   <img src="https://img.shields.io/badge/Built%20With-%F0%9F%92%BB%20%26%20%E2%9C%A8-purple?style=for-the-badge" alt="Built With Badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mission-SQL%20Mastery-ffcc00?style=flat-square" alt="Mission Badge" />
-  <img src="https://img.shields.io/badge/Level-Up-Now!-red?style=flat-square&logo=rocket" alt="Level Up Badge" />
 </p>
 
 ---
