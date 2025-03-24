@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+Mastering+SQL+1+Query+at+a+Time!;👨‍💻+50+Top+LeetCode+Problems+Solved!;💡+Clean+Code+%7C+Sharp+Logic+%7C+Fun!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="the_big_city.gif" alt="Pixel City Data Flow" />
+</p>
 ---
 
 ## 🌟 Welcome to the SQL Vault 🧠🔐
