@@ -9,3 +9,6 @@ from(
 group by machine_id;
 
 -- this was a hard one but it is still easy on leetcode :( 
+-- it has an inner query that first organizes the table into its own groups
+-- the take on MAX allow us to simply ignore more complicated step but it acctually doesn't matter if we take the max or not
+-- the case is when it is the start then it will take the timestamp as the start
