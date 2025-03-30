@@ -1,0 +1,11 @@
+# Write your MySQL query statement below
+SELECT DISTINCT Products.product_id , IFNULL(d.new_price, 10) AS price FROM Products 
+Left join (
+
+SELECT product_id , new_price FROM Products
+WHERE (product_id , change_date) in (
+SELECT product_id, max(change_date) AS change_date FROM Products
+WHERE change_date <= '2019-08-16'
+GROUP by product_id)
+) d
+ON Products.product_id = d.product_id;
