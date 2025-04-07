@@ -25,13 +25,4 @@
 You've landed in the right place.
 
 ---
-
-## 🗂️ File Structure: Sleek & Organized
-
-```bash
-📁 sql-50/
-├── 📝 001. Recyclable and Low Fat Products.sql
-├── 📝 002. Second Highest Salary.sql
-├── 📝 003. Nth Highest Salary.sql
-├── ...
-└── 📝 050. The Employee That Worked on the Most Projects.sql
+SORRY IM TOO LAZY TO LABEL THEM TO PUT THEM IN LABEL:)
